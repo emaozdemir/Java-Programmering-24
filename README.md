@@ -21,4 +21,7 @@ Dessa övningar ger en chans för er att lära er att förstå kod genom att lä
 ### Laboration
 [labs](/labs) innehåller information om kursens första laboration.
 
+### SOLID
+[SOLID](/SOLID) innehåller kodexempel för de olika principerna som ingår i SOLID. Bortsett Open/Closed Principle så innehåller varje princip en "Good" och en "Bad" folder, för att demonstrera problem som uppstår när principerna bryts och hur de kan lösas med hjälp av SOLID. 
+
 

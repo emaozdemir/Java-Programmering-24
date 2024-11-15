@@ -18,5 +18,7 @@ public class Confusing {
     public static void main(String[] args) {
         Confusing confusing = new Confusing(10, "5", "Hello");
         confusing.start();
+        System.out.println("sema");
     }
+    
 }
